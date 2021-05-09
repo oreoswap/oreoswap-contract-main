@@ -1,0 +1,27 @@
+{
+  "name": "oreoswap-contract-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oreoswap-BSC/oreoswap-contract-main.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oreoswap-BSC/oreoswap-contract-main/issues"
+  },
+  "homepage": "https://github.com/Oreoswap-BSC/oreoswap-contract-main#readme",
+  "dependencies": {
+    "dotenv": "^9.0.1",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}
